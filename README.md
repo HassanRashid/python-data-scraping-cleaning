@@ -4,6 +4,8 @@
 
 In order to analyze a Disney movies database, the data must be cleaned initially.
 
+Output: https://github.com/HassanRashid/python-data-scraping-cleaning/blob/main/python_data_scraping_cleaning.ipynb
+
 ### Tasks
 
 **Data scraping:**
