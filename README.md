@@ -4,13 +4,13 @@
 
 **Data scraping:**
 
-1. Get Wikipedia movie info box (store in Python dictionary)
-2. Get info box for all movies
+- Get Wikipedia movie info box (store in Python dictionary)
+- Get info box for all movies
 
 **Data cleaning:**
 
-3. In order to run analysis on the data, it must be cleaned and without any errors:
----
+- In order to run analysis on the data, it must be cleaned and without any errors:
+
 1. Remove references "[1]" from data
 2. Split up remaining strings of names into lists
 3. Investigate "'NoneType' object has no attribute" errors for some movies
