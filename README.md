@@ -1,6 +1,10 @@
 # Scraping and cleaning a Disney movies database in Python
 
-## Tasks
+## Goal
+
+In order to analyze a Disney movies database, the data must be cleaned initially.
+
+### Tasks
 
 **Data scraping:**
 
