@@ -9,10 +9,14 @@
 
 **Data cleaning:**
 
-- In order to run analysis on the data, it must be cleaned and without any errors:
+In order to run analysis on the data, it must be cleaned and without any errors:
 
 1. Remove references "[1]" from data
 2. Split up remaining strings of names into lists
 3. Investigate "'NoneType' object has no attribute" errors for some movies
 4. Running time: convert from string to integer
 5. Convert dates to datetime objects
+
+## Data
+
+The data is scraped from the Wikipedia page: https://en.wikipedia.org/wiki/List_of_Walt_Disney_Pictures_films
