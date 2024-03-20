@@ -8,6 +8,7 @@
 2. Get info box for all movies
 
 **Data cleaning:**
+
 3. In order to run analysis on the data, it must be cleaned and without any errors:
 
 1. Remove references "[1]" from data
